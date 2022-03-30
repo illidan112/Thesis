@@ -13,4 +13,4 @@ This project is a diploma work of a BSU student. The project is the simplest sys
 
 ## Heart rate chart
 
-[alt text](picts/diagram.jpg)
+![alt text](picts/diagram.jpg)
